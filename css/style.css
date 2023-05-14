@@ -1,0 +1,34 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+  #capa-mulher {
+    display: none;
+  }
+
+  #img-juros {
+    width: 200px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  #capa-mulher {
+    display: none;
+  }
+
+  #img-juros {
+    width: 200px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #img-juros {
+    width: 200px;
+  }
+}
+
+body {
+  overflow-x: hidden;
+}
+
+#logo {
+  width: 55%;
+}
